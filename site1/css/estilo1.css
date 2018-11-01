@@ -1,0 +1,107 @@
+body{
+  margin: 0;
+  font-family: Arial;
+  font-size: 12px;
+}
+.geral{
+	width:100%;
+}
+.topo{
+	height:30px;
+	background-color: #333;
+	color: #fff;
+}
+.topoint{
+	width: 100%;
+	max-width: 1040px;
+	height: 30px;
+	margin: auto;
+}
+.topoesquerda{
+	width:50%;
+	height: 30px;
+	float: left;
+}
+.topodireita{
+	width:50%;
+	height: 28px;
+	float: right;
+	text-align:right;
+	margin-top: 2px;
+}
+.topoesquerda ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.topoesquerda li{
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 8px;
+	margin-right: 8px;
+	
+}
+.topoesquerda li a{
+	text-decoration: none;
+	color: #FFF;
+}
+.topoesquerda li .ativo{
+	color: blue;
+}
+.imgTopo{
+	height:26px;
+	width: 26px;
+	line-height: 26px;
+	border:0;
+}
+.topobusca{
+	height: 20px;
+	width: 110px;
+	float:right;
+	outline:0;
+	line-height: 26px;
+	margin-right: 4px;
+}
+.imgBusca{
+	height:26px;
+	width: 26px;
+	line-height: 26px;
+	border:0;
+	float:right;
+}
+.topo2{
+	height:95px;
+}
+.topo2int{
+	width: 100%;
+	max-width: 1040px;
+	height: 95px;
+	margin: auto;
+}
+.logo{
+	width: 230px;
+	height: 95px;
+	float: left;
+}
+.imglogo{
+	width: 100%;
+	margin-top: 5px;
+}
+.topo2 .banner{
+	width: 650px;
+	height: 80px;
+	float: right;
+	margin-top: 7px;
+	background-color: red;
+}
+.menu{
+	height: 40px;
+	background-color:red;
+}
+.menuint{
+	width: 100%;
+	max-width: 1040px;
+	height: 40px;
+	margin: auto;
+}
